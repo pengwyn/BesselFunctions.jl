@@ -1,7 +1,7 @@
 name = "BesselFunctions"
 uuid = "4d59f32e-7137-4000-967d-44acb2105281"
 authors = ["Daniel Cocks <daniel.cocks@gmail.com>"]
-version = "0.1.1"
+version = "0.1.2"
 
 [deps]
 AndExport = "4484d908-372d-4f90-b90b-0ec97f005b8c"
